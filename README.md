@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://blog.charitarth.dev](https://blog.charitarth.dev)
 
-- 📫 How to reach me **[charitarthchugh@gmail.com](mailto://charitarth.chugh@gnail.com)**
+- 📫 How to reach me **[charitarthchugh@gmail.com](mailto://charitarth.chugh@gmail.com)**
 
 - 📄 Know about my experiences [here](https://github.com/charitarthchugh/resume/blob/main/resume.pdf)
 
