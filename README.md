@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [here](https://github.com/charitarthchugh/resume/blob/main/resume.pdf)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting TAP (Table Access Protocol) data into Pandas DataFrame format](http://blog.charitarth.dev/posts/tap_to_pandas/)
 - [Predicting Pulsars using the HTRU 2 Dataset](http://blog.charitarth.dev/posts/predicting-pulsars/)
