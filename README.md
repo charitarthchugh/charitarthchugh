@@ -18,7 +18,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting TAP (Table Access Protocol) data into Pandas DataFrame format](http://blog.charitarth.dev/posts/tap_to_pandas/)
+- [Getting TAP &lpar;Table Access Protocol&rpar; data into Pandas DataFrame format](http://blog.charitarth.dev/posts/tap_to_pandas/)
 - [Predicting Pulsars using the HTRU 2 Dataset](http://blog.charitarth.dev/posts/predicting-pulsars/)
 - [First Post!](http://blog.charitarth.dev/posts/first_post/)
 - [Intuitive Flutter Dark and Light Mode using Provider and themeMode](https://medium.com/@charitarth.chugh/intuitive-flutter-dark-and-light-mode-using-provider-and-thememode-6bc547794f62?source=rss-94ab29f32202------2)
