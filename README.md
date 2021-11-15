@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitarthchugh" alt="charitarthchugh" /></a> </p>
 
 
-- 🔭 I’m currently working on [Opinion-Mining](https://github.com/Nachiket18/OpinionMining)
+- 🔭 I’m currently working on [Opinion Mining](https://github.com/Nachiket18/OpinionMining)
 
 - 🌱 I’m currently learning **PyTorch, Transformers**
 
