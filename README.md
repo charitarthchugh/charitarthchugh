@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitarthchugh" alt="charitarthchugh" /></a> </p>
 
 
-- 🔭 I’m currently working on [solar-india](https://github.com/charitarthchugh/solar-india)
+- 🔭 I’m currently working on [Opinion-Mining](https://github.com/Nachiket18/OpinionMining)
 
-- 🌱 I’m currently learning **PyTorch, Tensorflow**
+- 🌱 I’m currently learning **PyTorch, Transformers**
 
 - 👨‍💻 All of my projects are available at [charitarth.dev](charitarth.dev)
 
-- 📝 I regularly write articles on [https://blog.charitarth.dev](https://blog.charitarth.dev)
+- 📝 I write articles on [https://blog.charitarth.dev](https://blog.charitarth.dev)
 
 - 📫 How to reach me **[charitarthchugh@gmail.com](mailto://charitarth.chugh@gmail.com)**
 
