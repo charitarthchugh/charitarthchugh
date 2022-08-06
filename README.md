@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[charitarthchugh@gmail.com](mailto://charitarth.chugh@gmail.com)**
 
-- 📄 Know about my experiences [here](https://github.com/charitarthchugh/resume/blob/main/resume.pdf)
+- 📄 Know about my experiences [here](https://link.charitarth.dev/resume)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
