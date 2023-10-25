@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [charitarth.dev](charitarth.dev)
 
-- 📝 I write articles on [https://blog.charitarth.dev](https://blog.charitarth.dev)
+- 📝 I occasionally write articles on [https://blog.charitarth.dev](https://blog.charitarth.dev)
 
-- 📫 How to reach me **[charitarthchugh@gmail.com](mailto://charitarth.chugh@gmail.com)**
+- 📫 How to reach me **[contact@charitarth.dev](mailto://contact@charitarth.dev)**
 
 - 📄 Know about my experiences [here](https://link.charitarth.dev/resume)
 
