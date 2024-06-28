@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charitarthchugh" alt="charitarthchugh" /></a> </p>
 
 
-- 🔭 I’m currently working on [lang-guess] (https://github.com/charitarthchugh/lang-guess) 
+- 🔭 I’m currently working on [lang-guess](https://github.com/charitarthchugh/lang-guess) 
 
 - 🌱 I’m currently learning **how to make deep nets efficient**
 
